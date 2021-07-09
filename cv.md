@@ -7,7 +7,7 @@
 I want to fill gaps in front-end development and study new things.
 
 ### Skills
-.Net, Html, CSS
+.Net, Html, CSS, etc.
 
 ### Code examples
 ```
